@@ -1,6 +1,6 @@
 # React Pagination
 
-A simle pagination system for ReactJS. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simle pagination system for ReactJS Apps. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Preview
 
